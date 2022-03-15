@@ -1,2 +1,2 @@
 # Lab2Web
-Tugas praktikum 2
+Tugaspraktikum2
