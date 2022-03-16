@@ -1,10 +1,10 @@
 # Lab2Web
 ><b>Tugaspraktikum2</b>
 
-<br>|Nama   | Moch. Nauval faris muzaki|
-<br>|NIM    | 312010122|
-<br>|Kelas   | TI.20.B1|
-<br>|Matkul  | Pemrograman Web|
+<br>|Nama       :Moch. Nauval faris muzaki|
+<br>|NIM        :312010122|
+<br>|Kelas      :TI.20.B1|
+<br>|Matkul     :Pemrograman Web
 <br>
  
  1.<b>Membuat dokumen HTML.</b><br>
