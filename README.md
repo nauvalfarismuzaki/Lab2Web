@@ -15,7 +15,14 @@ Matkul : Pwmrograman Web
  <br>
 
  2.<b>Mendeklarasikan CCS Internal</b>
+ <br>
  nah selanjutnya kita mendeklarasikan CCS Internal berikut umtuk tampilannya
  <br>
 
  ![Mendeklarasikan CSS internal](pictures/gambar2.png)
+
+ 3.<b>Menambahkan Inline CSS</b>
+ <br>
+ lalu kita menambahkan deklarasi inline CSS nah berikut tampilannya
+
+ ![ Menambahkan Inline CSS](pictures/gambar3.png)
