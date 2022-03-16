@@ -20,9 +20,24 @@ Matkul : Pwmrograman Web
  <br>
 
  ![Mendeklarasikan CSS internal](pictures/gambar2.png)
+ <br>
 
  3.<b>Menambahkan Inline CSS</b>
  <br>
  lalu kita menambahkan deklarasi inline CSS nah berikut tampilannya
 
  ![ Menambahkan Inline CSS](pictures/gambar3.png)
+<br>
+
+<b>4. Membuat CSS Eksternal</b>
+<br>
+ setelah itu kita membuat file baru untuk mendeklarasikan css berikut tampilannya
+
+ ![ Membuat CSS Eksternal](pictures/gambar4.png)
+
+ <b>.5. Menambahkan CSS Selector</b>
+<br>
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file 
+style_eksternal.css, tambahkan kode berikut
+
+![ Menambahkan CSS Selector](pictures/gambar5.png)
