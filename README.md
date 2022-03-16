@@ -15,3 +15,7 @@ Matkul : Pwmrograman Web
  <br>
 
  2.<b>Mendeklarasikan CCS Internal</b>
+ nah selanjutnya kita mendeklarasikan CCS Internal berikut umtuk tampilannya
+ <br>
+
+ ![Mendeklarasikan CSS internal](pictures/gambar2.png)
